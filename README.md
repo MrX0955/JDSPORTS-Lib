@@ -1,5 +1,5 @@
 # JDSPORTS-Lib
-JDSports Library for Cracked.to&amp;&amp;io
+***JDSports Library for Cracked.io***
 
 # How to Use?
 
@@ -13,4 +13,4 @@ solver(username="EmailHere", password="PasswordHere")
 
 # What is this?
 
-> This tool will capture ur account card informations. Security bypassed...
+> ***This tool will capture ur account card informations. Security bypassed...***
