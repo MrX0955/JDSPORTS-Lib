@@ -13,4 +13,4 @@ solver(username="EmailHere", password="PasswordHere")
 
 # What is this?
 
-> ***This tool will capture ur account card informations. Security bypassed...***
+> ***This tool will capture ur account card informations. Security has been bypassed...***
