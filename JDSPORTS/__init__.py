@@ -33,7 +33,6 @@ def solver(username, password):
         r = requests.get(
             f'{link}/paymentCards?displayadyencards=1',
             headers=headers)
-        print(r.text)
         try:
             card = r.json()["cards"][0]["cardNumber"]
             exp_date = r.json()["cards"][0]["expiryDate"]
