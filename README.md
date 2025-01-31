@@ -1,5 +1,5 @@
 # JDSPORTS-Lib
-***JDSports Library for Cracked.io***                                      
+***JDSports Library***                                      
 ***Please, Read the Informations Here. And Open the start.bat File first.***
 
 # How to Use?
